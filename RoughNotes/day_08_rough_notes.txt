@@ -1,0 +1,24 @@
+letters in
+
+0 -> abcefg
+6 -> abdefg
+9 -> abcdfg
+
+2 -> acdeg
+3 -> acdfg
+5 -> abdfg
+
+4 -> bcdf
+
+7 -> acf
+
+1 -> cf
+
+
+letters we know at this point
+abcdf
+
+letters we don't know
+e, g
+
+
